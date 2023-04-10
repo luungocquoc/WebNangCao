@@ -1,4 +1,6 @@
-﻿using System.Data.Common;
+﻿
+//Hoc git
+using System.Data.Common;
 using TatBlog.Core.Entities;
 using TatBlog.Data.Contexts;
 using TatBlog.Data.Seeders;
